@@ -1,0 +1,75 @@
+    .background{
+        background-color: #e6e6e6;
+        margin: 0;
+        padding: 0;
+    }
+    .navi{
+        position: absolute;
+        padding-top: 1%;
+        height: 5.9%;
+        padding-left: 4%;
+        width: 96%;
+        margin: 0;
+        background-color: #ffffff;
+        box-shadow: 0px 5px 10px rgba(102, 109, 116, 0.527);
+        cursor: default;
+    }
+    .title{
+        width: 13%;
+        text-align: left;
+        vertical-align: center;
+        font-size: 25px;
+        color: black;
+        text-decoration: none;
+    }
+.bset1 {    
+    display: inline-block;
+    vertical-align: middle;
+}
+.button1, .button2, .button3, .button4, .button5{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 10px;
+    line-height: 30px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-right: 15px;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+.button1{
+    position: absolute;
+    right: 500px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.button2{
+    position: absolute;
+    right: 440px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.button3{
+    position: absolute;
+    right: 380px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.button4{
+    position: absolute;
+    right: 320px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.button5{
+    position: absolute;
+    right: 260px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.spce1{
+    padding-top: 4%;
+}
